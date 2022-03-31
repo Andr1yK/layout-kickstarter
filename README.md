@@ -1,10 +1,7 @@
 # Kickstarter CrazyBaby
 
-Kickstarter multipage
-
 - [DEMO LINK](https://andr1yk.github.io/layout-kickstarter/)
-- [Figma design]()
-
+- [Figma design](https://www.figma.com/file/ahRSbpFZaxYOmGvw0v9PDf/kickstarter-crazybaby)
 - [Advenced version wiht React](https://github.com/Andr1yK/react_kickstarter/)
 
 ## Description
